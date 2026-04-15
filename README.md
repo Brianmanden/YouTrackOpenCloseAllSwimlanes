@@ -1,8 +1,12 @@
 # YouTrackOpenCloseAllSwimlanes
 
-Two bookmark scripts to open / close all swimlanes on a YouTrack Board
+These two scripts makes it able for you to open / close **ALL** swimlanes on a YouTrack Board.
 
-## Open all swimlanes
+## How-to
+
+Follow the instructions below to 'install' the scripts in your browser.
+
+### Open all swimlanes
 
 1. Add a Bookmark in your browser and name it OPEN
 2. In the URL field of the bookmark paste the following:
@@ -12,7 +16,7 @@ javascript:(function () { const toggles = document.querySelectorAll('.yt-agile-t
 3. Navigate to your YouTrack Board
 4. Click the OPEN bookmark and all swimlanes opens
 
-## Close all swimlanes
+### Close all swimlanes
 
 1. Add a Bookmark in your browser and name it CLOSE
 2. In the URL field of the bookmark paste the following:
